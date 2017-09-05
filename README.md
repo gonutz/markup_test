@@ -15,7 +15,7 @@ _italic_
 
 /nothing/
 
-~nothing~
+~crossed-out~
 
 ~~crossed-out~~
 
