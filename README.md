@@ -11,9 +11,9 @@ there is an equal line under this
 
 _italic_
 
--crossed-
+-nothing-
 
-/italic/
+/nothing/
 
 star: *
 
