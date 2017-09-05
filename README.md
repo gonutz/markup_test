@@ -20,3 +20,6 @@ star: *
 *not bold
 
 not bold either*
+
+*is this
+bold?*
