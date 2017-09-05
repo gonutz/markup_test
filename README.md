@@ -25,5 +25,6 @@ star: *
 
 not bold either*
 
-*is this
-bold?*
+**bold over
+multiple
+lines**
