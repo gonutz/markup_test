@@ -15,4 +15,8 @@ _underlined_
 
 /italic/
 
-start: **
+star: *
+
+*not bold
+
+not bold either*
