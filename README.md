@@ -28,3 +28,7 @@ not bold either*
 **bold over
 multiple
 lines**
+
+**space after text **
+
+** space before text**
