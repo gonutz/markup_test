@@ -15,6 +15,10 @@ _italic_
 
 /nothing/
 
+~nothing~
+
+~~crossed-out~~
+
 star: *
 
 *not bold
