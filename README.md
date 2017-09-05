@@ -7,9 +7,9 @@ there is a minus line under this
 there is an equal line under this
 =================================
 
-*bold*
+**bold**
 
-_underlined_
+_italic_
 
 -crossed-
 
