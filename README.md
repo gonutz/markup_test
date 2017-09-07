@@ -32,3 +32,5 @@ lines**
 **space after text **
 
 ** space before text**
+
+how *about this *bold* text?
