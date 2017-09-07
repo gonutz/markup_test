@@ -38,3 +38,5 @@ how *about this *bold* text?
 how *about this * bold* text?
 
 how *about this *bold * text?
+
+how *about this *bold text*?
